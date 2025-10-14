@@ -40,10 +40,7 @@ Este portfólio é meu espaço de prática e evolução. Compartilho projetos si
 
 - **Centro Universitário de Brasília**  
   Graduação em Ciência de Dados e Machine Learning  
-  *Início: 28/07/2025*
-
-- **Ensino Médio**  
-  Escola Técnica Federal de Goiás, Goiânia (1997)
+  *em andamento*
 
 ---
 
