@@ -58,7 +58,7 @@ Este portfólio é meu espaço de prática e evolução. Compartilho projetos si
 
 ## 📬 Contato
 
-**Email:** [pauljr@sempreceub.com](mailto:pauljr@sempreceub.com)
+**Email:** [antoniodatasciencebr@gmail.com](mailto:antoniodatasciencebr@gmail.com)
 
 ---
 
