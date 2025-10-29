@@ -125,3 +125,5 @@ Este portfólio é meu espaço de prática e evolução. Compartilho projetos si
 
 ---
 ⚙️ Este portfólio está em constante evolução. Sinta-se à vontade para acompanhar meus projetos e aprendizados!
+<!-- FOOTER WAVE -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=gradient&customColorList=30,30,30&reversal=false&section=footer />
